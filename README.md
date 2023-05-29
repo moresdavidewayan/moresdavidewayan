@@ -29,4 +29,6 @@ Hi :wave:, I'm Davide and I'm a software developer from Italy.
 ## :desktop_computer: Operating systems
 <div align="center">
   <img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" alt="Arch Linux" height="40"/>&nbsp;
+  <img src="https://www.debian.org/logos/openlogo-nd.svg" alt="Debian" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Microsoft Windows" height="40"/>&nbsp;
 </div>
